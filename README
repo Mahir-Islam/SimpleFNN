@@ -1,1 +1,2 @@
-test
+Open test.py and modify line 17 to any image in the folder 'testimages'.
+You will need the libraries: tensorflow, numpy, matplotlib and cv2
